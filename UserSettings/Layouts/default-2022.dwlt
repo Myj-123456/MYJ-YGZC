@@ -167,7 +167,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1244.6666
-    height: 426.66666
+    height: 472.66666
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
@@ -191,7 +191,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 369.33334
-    height: 426.66666
+    height: 472.66666
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 12}
@@ -217,7 +217,7 @@ MonoBehaviour:
     x: 369.33334
     y: 0
     width: 875.33325
-    height: 426.66666
+    height: 472.66666
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 13}
@@ -242,9 +242,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 426.66666
+    y: 472.66666
     width: 1244.6666
-    height: 499.33334
+    height: 453.33334
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
@@ -272,8 +272,8 @@ MonoBehaviour:
     y: 0
     width: 462
     height: 926
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -304,7 +304,7 @@ MonoBehaviour:
     x: 0
     y: 72.66667
     width: 368.33334
-    height: 405.66666
+    height: 451.66666
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -368,7 +368,7 @@ MonoBehaviour:
     x: 369.33334
     y: 72.66667
     width: 873.33325
-    height: 405.66666
+    height: 451.66666
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1109,9 +1109,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 499.33334
+    y: 545.3334
     width: 1243.6666
-    height: 478.33334
+    height: 432.33334
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1167,22 +1167,22 @@ MonoBehaviour:
       x: 0
       y: 21
       width: 1243.6666
-      height: 457.33334
-    m_Scale: {x: 0.4763889, y: 0.4763889}
-    m_Translation: {x: 621.8333, y: 228.66667}
+      height: 411.33334
+    m_Scale: {x: 0.42847222, y: 0.42847222}
+    m_Translation: {x: 621.8333, y: 205.66667}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1305.306
+      x: -1451.2804
       y: -480
-      width: 2610.612
+      width: 2902.5608
       height: 960
     m_MinimalGUI: 1
-  m_defaultScale: 0.4763889
-  m_LastWindowPixelSize: {x: 1865.5, y: 717.5}
+  m_defaultScale: 0.42847222
+  m_LastWindowPixelSize: {x: 1865.5, y: 648.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000101000000000000
